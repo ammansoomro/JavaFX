@@ -15,21 +15,7 @@ public class select {
 
 		// establish the connection
 		Connection con = DriverManager.getConnection(url, user, password);
-
-//		// display status message
-//		if (con == null) {
-//			System.out.println("JDBC connection is not established");
-//			return;
-//
-//		} else {
-//			System.out.println("Congratulations, JDBC connection is established successfully.\n");
-//
-//		}
-//
-//		// Remember to close the JDBC connection
-//		con.close();
-
-		// create JDBC statement object
+		
 		Statement st = con.createStatement();
 		// prepare SQL query
 		String query = "SELECT ID, NAME, ADDRESS FROM PERSON";
