@@ -1,0 +1,5 @@
+module JavaFx_04_UsernamePassword {
+	requires javafx.controls;
+	
+	opens application to javafx.graphics, javafx.fxml;
+}

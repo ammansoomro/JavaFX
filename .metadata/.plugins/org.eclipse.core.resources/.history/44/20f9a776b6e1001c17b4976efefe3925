@@ -1,0 +1,4 @@
+package application;
+
+public class PopupWindow {
+	Scene Window = new Scene();}

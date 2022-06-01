@@ -1,0 +1,22 @@
+package application;
+import javafx.stage.Stage;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.VBox;
+public class ConfirmationWindow {
+	
+	public String Confirm() {
+		String answer = "";
+		Stage window = new Stage();
+		Button btn01,btn02;
+		btn01 = new Button("No");
+		btn02 = new Button("Yes");
+		btn02.setOnAction(e ->{
+			answer = "Yes, Your Mom Gay.";
+			window.close();l
+		});
+		return answer;
+	}
+	
+}

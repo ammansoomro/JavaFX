@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javafx.scene.layout.StackPane"/>
+    <fullyQualifiedTypeName name="javafx.stage.Stage"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.HBox"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+    <fullyQualifiedTypeName name="javax.sql.rowset.serial.SQLOutputImpl"/>
+    <fullyQualifiedTypeName name="java.sql.SQLOutput"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.ComboBox"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
+    <fullyQualifiedTypeName name="javafx.geometry.Pos"/>
+</qualifiedTypeNameHistroy>

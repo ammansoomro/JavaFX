@@ -1,0 +1,5 @@
+module JavaFx_02_PopupFrame {
+	requires javafx.controls;
+	
+	opens application to javafx.graphics, javafx.fxml;
+}
